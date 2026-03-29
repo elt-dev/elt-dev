@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 I'm Ton
 
-<!--
-**elt-dev/elt-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | Former Salesman → I understand both code and customers**
 
-Here are some ideas to get you started:
+📍 Finland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My main project: Automobile Care Webshop
+
+A fully functional e-commerce site for car care products. Built from scratch.
+
+**Tech stack:**
+- React + TypeScript + Tailwind CSS
+- Firebase (Auth, Firestore, Functions)
+- Paytrail payment integration
+- i18n (Finnish + English)
+
+**Features:**
+- Complete checkout with Paytrail
+- User accounts with email verification
+- Wishlist & order history
+- Admin dashboard
+- Employee internal ordering system
+
+**Live site:** https://www.autocarekauppa.fi
+
+## Other experience
+
+🎮 **GTA FiveM Server** - 5000+ Discord members, 128 concurrent players, VPS management
+🏢 **SAP Fiori** - SAP BTP, HANA database, Azure SSO
