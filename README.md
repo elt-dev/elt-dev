@@ -36,7 +36,7 @@ I build digital products and understand what customers actually need.
 - SAP BTP, HANA database, OData, Azure SSO
 - Built customer applications, GitLab version control
 - Agile team, customer communication
-- **[Repo →](https://github.com/elt-dev/sap-fiori-internship)**
+- **[Repo →](https://github.com/elt-dev/sap-fiori-doc)**
 
 ---
 
