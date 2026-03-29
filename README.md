@@ -21,9 +21,9 @@ A fully functional e-commerce site for car care products. Built from scratch.
 - Admin dashboard
 - Employee internal ordering system
 
-**Live site:** https://www.autocarekauppa.fi
+**Live site:** [autocarekauppa.fi](https://www.autocarekauppa.fi)
 
-📦 **Case study:** [AutoCare Webshop](https://github.com/ton-dev/autocare-webshop)
+📦 **Project Repositorys:** [AutoCare Webshop](https://github.com/ton-dev/autocare-webshop)
 
 ## Other experience
 
