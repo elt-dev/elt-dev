@@ -9,7 +9,7 @@ I build digital products and understand what customers actually need.
 
 ## Projects
 
-### 🛒 Webshop
+### Webshop
 *Full stack e-commerce platform*
 
 - React + TypeScript, Firebase, Paytrail payments
