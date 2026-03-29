@@ -23,7 +23,7 @@ A fully functional e-commerce site for car care products. Built from scratch.
 
 **Live site:** [autocarekauppa.fi](https://www.autocarekauppa.fi)
 
-**Project Repositorys:** [AutoCare Webshop](https://github.com/elt-dev/carcare-webshop)
+**Project Repositorys:** [Webshop](https://github.com/elt-dev/carcare-webshop)
 
 ## Other experience
 
