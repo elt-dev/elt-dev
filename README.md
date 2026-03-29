@@ -23,9 +23,9 @@ A fully functional e-commerce site for car care products. Built from scratch.
 
 **Live site:** [autocarekauppa.fi](https://www.autocarekauppa.fi)
 
-📦 **Project Repositorys:** [AutoCare Webshop](https://github.com/ton-dev/autocare-webshop)
+**Project Repositorys:** [AutoCare Webshop](https://github.com/elt-dev/carcare-webshop)
 
 ## Other experience
 
-🎮 **GTA FiveM Server** - 5000+ Discord members, 128 concurrent players, VPS management
-🏢 **SAP Fiori** - SAP BTP, HANA database, Azure SSO
+**GTA FiveM Server** - 5000+ Discord members, 128 concurrent players, VPS management
+**SAP Fiori** - SAP BTP, HANA database, Azure SSO
