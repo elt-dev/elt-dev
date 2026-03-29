@@ -1,31 +1,47 @@
-# 👋
+# 👋 Hi
 
-**Full Stack Developer | Former Salesman → I understand both code and customers**
+**Full Stack Developer** with a background in sales.  
+I build digital products and understand what customers actually need.
 
 📍 Finland
 
-## My main project: Automobile Care Webshop
+---
 
-A fully functional e-commerce site for car care products. Built from scratch.
+## Projects
 
-**Tech stack:**
-- React + TypeScript + Tailwind CSS
-- Firebase (Auth, Firestore, Functions)
-- Paytrail payment integration
-- i18n (Finnish + English)
+### 🛒 Webshop
+*Full stack e-commerce platform*
 
-**Features:**
-- Complete checkout with Paytrail
-- User accounts with email verification
-- Wishlist & order history
-- Admin dashboard
-- Employee internal ordering system
+- React + TypeScript, Firebase, Paytrail payments
+- User accounts, wishlist, order history
+- Admin dashboard + employee internal ordering
+- **Live:** [autocarekauppa.fi](https://autocarekauppa.fi) | **[Repo →](https://github.com/elt-dev/carcare-webshop)**
 
-**Live site:** [autocarekauppa.fi](https://www.autocarekauppa.fi)
+---
 
-**Project Repositorys:** [Webshop](https://github.com/elt-dev/carcare-webshop)
+### FiveM Roleplay Server
+*Large-scale gaming community*
 
-## Other experience
+- **5000+** Discord members at peak
+- **128** concurrent players on VPS
+- Custom scripts, database management, ticket support
+- Marketing on TikTok, Instagram, YouTube
+- **[Repo →](https://github.com/elt-dev/fivem-server-case)**
 
-**GTA FiveM Server** - 5000+ Discord members, 128 concurrent players, VPS management
-**SAP Fiori** - SAP BTP, HANA database, Azure SSO
+---
+
+### SAP Fiori Internship
+*Enterprise development at Espoo*
+
+- SAP BTP, HANA database, OData, Azure SSO
+- Built customer applications, GitLab version control
+- Agile team, customer communication
+- **[Repo →](https://github.com/elt-dev/sap-fiori-internship)**
+
+---
+
+## 🛠️ Tech I Work With
+
+`React` `TypeScript` `Firebase` `Tailwind` `SAP BTP` `Git` `VPS`
+
+---
