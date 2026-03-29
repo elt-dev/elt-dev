@@ -23,6 +23,8 @@ A fully functional e-commerce site for car care products. Built from scratch.
 
 **Live site:** https://www.autocarekauppa.fi
 
+📦 **Case study:** [AutoCare Webshop](https://github.com/ton-dev/autocare-webshop)
+
 ## Other experience
 
 🎮 **GTA FiveM Server** - 5000+ Discord members, 128 concurrent players, VPS management
