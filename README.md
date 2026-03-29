@@ -1,4 +1,4 @@
-# 👋 I'm Ton
+# 👋
 
 **Full Stack Developer | Former Salesman → I understand both code and customers**
 
