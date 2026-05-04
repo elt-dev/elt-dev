@@ -1,47 +1,54 @@
-# 👋 Hi
-
-**Full Stack Developer** with a background in sales.  
-I build digital products and understand what customers actually need.
+**Junior Full Stack Developer**
 
 📍 Finland
 
 ---
 
-## Projects
+### Hi
 
-### Webshop
-*Full stack e-commerce platform*
+I build digital products. Background in sales so I understand what customers actually need.
 
-- React + TypeScript, Firebase, Paytrail payments
-- User accounts, wishlist, order history
-- Admin dashboard + employee internal ordering
-- **Live:** [autocarekauppa.fi](https://autocarekauppa.fi) | **[Repo →](https://github.com/elt-dev/carcare-webshop)**
+### Tech I Work With
+
+**Frontend:** React, TypeScript, Tailwind, React Router  
+**Backend & DB:** Supabase, Firebase, MySQL, HeidiSQL  
+**Other:** Git, VPS, SAP BTP, Azure SSO
 
 ---
 
-### FiveM Roleplay Server
-*Large-scale gaming community*
+### 🚀 Featured Projects
 
-- **5000+** Discord members at peak
-- **128** concurrent players on VPS
-- Custom scripts, database management, ticket support
+#### Työvuorosovellus (Work Shift App)
+*Full stack shift management system used daily by a real company*
+
+- React, TypeScript, Supabase, Tailwind
+- User authentication with multiple roles (driver, supervisor, admin)
+- Real-time clock with break tracking and location
+- Shift planning, task management, reporting and payroll calculation
+
+#### Verkkokauppa (E-commerce)
+*Live production webshop with payment integration*
+
+- React, TypeScript, Firebase, Paytrail
+- Product management, user accounts, order history
+- Admin dashboard with employee ordering
+- Live: [autocarekauppa.fi](https://autocarekauppa.fi)
+
+#### FiveM Roleplay Server
+*Large scale gaming community (5000+ Discord members)*
+
+- VPS environment with 128 concurrent players
+- MySQL database design and maintenance
+- Custom game scripts, ticket support
 - Marketing on TikTok, Instagram, YouTube
-- **[Repo →](https://github.com/elt-dev/fivem-server-case)**
 
----
-
-### SAP Fiori Internship
-*Enterprise development at Espoo*
+#### SAP Fiori (Internship)
+*Enterprise development*
 
 - SAP BTP, HANA database, OData, Azure SSO
-- Built customer applications, GitLab version control
-- Agile team, customer communication
-- **[Repo →](https://github.com/elt-dev/sap-fiori-doc)**
+- Built customer applications, Git version control
+- Agile team with customer communication
 
 ---
 
-## 🛠️ Tech I Work With
-
-`React` `TypeScript` `Firebase` `Tailwind` `SAP BTP` `Git` `VPS`
-
----
+*Always learning, always building.*
